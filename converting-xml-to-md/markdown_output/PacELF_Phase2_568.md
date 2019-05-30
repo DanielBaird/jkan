@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: Neglected Tropical Diseases "Neglected Tropical Diseases, Hidden successes, Emerging opportunities"
+title: Neglected Tropical Diseases Neglected Tropical Diseases, Hidden successes, Emerging opportunities
 organization: WHO
 notes: N/A
 url: 'N/A'
 
 resources:
-- name: Neglected Tropical Diseases "Neglected Tropical Diseases, Hidden successes, Emerging opportunities"
+- name: Neglected Tropical Diseases Neglected Tropical Diseases, Hidden successes, Emerging opportunities
 url: 'N/A'
 format: Hardcopy
 access: Open

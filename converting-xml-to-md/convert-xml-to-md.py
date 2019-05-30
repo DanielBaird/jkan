@@ -8,10 +8,17 @@ import string
 from jinja2 import Template
 import jinja2
 import markdown
+import shutil
 
 logger.add(
     sys.stdout, colorize=True, format="<green>{time}</green> <level>{message}</level>"
 )
+
+# Clean up the output dir before re populating
+markdown_output_dir = '../_datasets/'
+shutil.rmtree(markdown_output_dir)
+os.makedirs(markdown_output_dir)
+
 
 
 valid_filename_chars = "-_.() %s%s" % (string.ascii_letters, string.digits)
@@ -54,9 +61,9 @@ def make_markdown_from_xml():
                 txt_file_path = filepath.replace(".xml", ".txt")
                 markdown_filename = filepath.split("/")[2]
                 markdown_filename = markdown_filename.split(".")[0]
-                markdown_output_filepath = (
-                    "./markdown_output/" + markdown_filename + ".md"
-                )
+                markdown_filename = (markdown_filename + ".md")
+                output_dir = ("./markdown_output/")
+                jekyll_dataset_dir = '../_datasets/'
 
                 # load and parse the XML file for key and values
                 xmlTree = ET.parse(filepath)
@@ -70,6 +77,15 @@ def make_markdown_from_xml():
                         )  # removing colons from text areas since markdown
                         if ("pdf_file") in key:
                             value = clean_filename(value)
+
+                        if ("title") in key:
+                            value = value.replace('"', '') # Some have " in them, breaks YAML/MD
+
+                        if ("title") in key:
+                            value = value.replace('[', ' ').replace(']', ' ') # Some  have [ ] in them, breaks YAML/MD
+
+                        if ("description") in key:
+                            value = value.replace('[', ' ').replace(']', ' ') # Some  have [ ] in them, breaks YAML/MD
 
                         dict[key] = value
 
@@ -173,8 +189,13 @@ def make_markdown_from_xml():
                 #     "</code></pre>", ""
                 # )
 
-                with open(markdown_output_filepath, "w") as text_file:
+                with open(output_dir + markdown_filename, "w") as text_file:
                     print(rendered_template, file=text_file)
+                    logger.info("Wrote " + markdown_filename + " to " + output_dir)
+
+                with open(jekyll_dataset_dir + markdown_filename, "w") as text_file:
+                    print(rendered_template, file=text_file)
+                    logger.info("Wrote " + markdown_filename + " to " + jekyll_dataset_dir)
 
         # can remove duplicates - convert to set and back to list
         # elemList = list(set(elemList))

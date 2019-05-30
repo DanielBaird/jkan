@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: Préparation campagne filariose avril 2007  [Schedule for the LF elimination program of 2007]
+title: Préparation campagne filariose avril 2007   Schedule for the LF elimination program of 2007 
 organization: Direction de la Santé, Polynesie Franҫaise
 notes: This is a brief schedule sheet that helped in the preparation for the 2007 elimination campaign in French Polynesia
 url: 'French_PolynesiaPacELF_110_Preparation_campagne_filariose_avril_2007__Schedule_for_the_LF_elimination_program_of_2007.pdf'
 
 resources:
-- name: Préparation campagne filariose avril 2007  [Schedule for the LF elimination program of 2007]
+- name: Préparation campagne filariose avril 2007   Schedule for the LF elimination program of 2007 
 url: 'French_PolynesiaPacELF_110_Preparation_campagne_filariose_avril_2007__Schedule_for_the_LF_elimination_program_of_2007.pdf'
 format: Electronic
 access: Open

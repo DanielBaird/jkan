@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: Development of a document on "LF Entomology"
+title: Development of a document on LF Entomology
 organization: Ichimori, K.
 notes: N/A
 url: 'N/A'
 
 resources:
-- name: Development of a document on "LF Entomology"
+- name: Development of a document on LF Entomology
 url: 'N/A'
 format: Hardcopy
 access: Restricted

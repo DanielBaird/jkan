@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: "Towards the Global Elimination of Lymphatic Filariasis  Successes and Challenges" The Planning and Organization of the Fourth Meeting of the Global Alliance to Eliminate Lymphatic Filariasis (GAELF4)
+title: Towards the Global Elimination of Lymphatic Filariasis  Successes and Challenges The Planning and Organization of the Fourth Meeting of the Global Alliance to Eliminate Lymphatic Filariasis (GAELF4)
 organization: N/A
 notes: 29 - 31 March 2006, Warwick Fiji
 url: 'N/A'
 
 resources:
-- name: "Towards the Global Elimination of Lymphatic Filariasis  Successes and Challenges" The Planning and Organization of the Fourth Meeting of the Global Alliance to Eliminate Lymphatic Filariasis (GAELF4)
+- name: Towards the Global Elimination of Lymphatic Filariasis  Successes and Challenges The Planning and Organization of the Fourth Meeting of the Global Alliance to Eliminate Lymphatic Filariasis (GAELF4)
 url: 'N/A'
 format: Hardcopy
 access: Restricted

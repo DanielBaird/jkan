@@ -2,7 +2,7 @@
 schema: pacelf
 title: Entomology of the filariasis control programme in Samoa, Aedes polynesiensis and Ae.samoanus
 organization: Ichimori, K. 
-notes: The main strategy for elimination of filariasisis transmission interruption through mass drug administration (MDA) however, it is important to argue that knowledge of vector species distribution and biting density is important for the impact of an intervention. In this paper, first the epidemiology of lymphatic filariasis in Samoa is examined, followed by a description of the bionomics and transmission potential of the vector mosquitoes, Aedes polynesiensisand Aedes samoanus. Then the role of entomology in a MDA based fi]ariasis elirnination programme is examined.
+notes: The main strategy for elimination of filariasisis transmission interruption through mass drug administration (MDA) however, it is important to argue that knowledge of vector species distribution and biting density is important for the impact of an intervention. In this paper, first the epidemiology of lymphatic filariasis in Samoa is examined, followed by a description of the bionomics and transmission potential of the vector mosquitoes, Aedes polynesiensisand Aedes samoanus. Then the role of entomology in a MDA based fi ariasis elirnination programme is examined.
 url: 'SamoaPacELF_1400_Ichimori_2001_Entomology_of_filariasis_control_program_in_Samoa_Aedes_polynesiensis_and_Ae_samoanus.pdf'
 
 resources:

@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: "Resolving the Critical Challenges Now Facing the Global Programme to Eliminate LF" Technical Group - 11th Meeting Task Force for Global Health Decatur, Georgia, USA October 2-3, 2012
+title: Resolving the Critical Challenges Now Facing the Global Programme to Eliminate LF Technical Group - 11th Meeting Task Force for Global Health Decatur, Georgia, USA October 2-3, 2012
 organization: World Health Organization
 notes: N/A
 url: 'N/A'
 
 resources:
-- name: "Resolving the Critical Challenges Now Facing the Global Programme to Eliminate LF" Technical Group - 11th Meeting Task Force for Global Health Decatur, Georgia, USA October 2-3, 2012
+- name: Resolving the Critical Challenges Now Facing the Global Programme to Eliminate LF Technical Group - 11th Meeting Task Force for Global Health Decatur, Georgia, USA October 2-3, 2012
 url: 'N/A'
 format: Hardcopy
 access: Restricted

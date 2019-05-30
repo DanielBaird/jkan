@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: Evaluation of Efficacy and Effectiveness of "PERMANET" and "OLYSET NET" impregnated curtains to control Aedes aegypti and Aedes polynesisensis vectors in Papeete area(Tahiti).
+title: Evaluation of Efficacy and Effectiveness of PERMANET and OLYSET NET impregnated curtains to control Aedes aegypti and Aedes polynesisensis vectors in Papeete area(Tahiti).
 organization: Marie, J., Plichart, C., Roche, C., Sechan, Y., Ichimori,K., Carnevale, P.
 notes: N/A
 url: 'N/A'
 
 resources:
-- name: Evaluation of Efficacy and Effectiveness of "PERMANET" and "OLYSET NET" impregnated curtains to control Aedes aegypti and Aedes polynesisensis vectors in Papeete area(Tahiti).
+- name: Evaluation of Efficacy and Effectiveness of PERMANET and OLYSET NET impregnated curtains to control Aedes aegypti and Aedes polynesisensis vectors in Papeete area(Tahiti).
 url: 'N/A'
 format: Hardcopy
 access: Restricted

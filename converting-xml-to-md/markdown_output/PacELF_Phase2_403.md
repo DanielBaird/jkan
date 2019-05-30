@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: "Resolving the Critical Challenges Now Facing the Global Programme to Eliminate LF" Technical Group - 10th Meeting WHO Geneva, Switzerland September 20-21, 2011
+title: Resolving the Critical Challenges Now Facing the Global Programme to Eliminate LF Technical Group - 10th Meeting WHO Geneva, Switzerland September 20-21, 2011
 organization: World Health Organization
 notes: N/A
 url: 'N/A'
 
 resources:
-- name: "Resolving the Critical Challenges Now Facing the Global Programme to Eliminate LF" Technical Group - 10th Meeting WHO Geneva, Switzerland September 20-21, 2011
+- name: Resolving the Critical Challenges Now Facing the Global Programme to Eliminate LF Technical Group - 10th Meeting WHO Geneva, Switzerland September 20-21, 2011
 url: 'N/A'
 format: Hardcopy
 access: Restricted

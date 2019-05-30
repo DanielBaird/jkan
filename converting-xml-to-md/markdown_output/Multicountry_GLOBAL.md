@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: Programme mondial pur l'elimination de la filariose lymphatique  rapport sur l'adminstration de mass de medicaments en 2007 [Global programme to eliminate lymphatic filariasis.  progress report on mass drug administration in 2007]
+title: Programme mondial pur l'elimination de la filariose lymphatique  rapport sur l'adminstration de mass de medicaments en 2007  Global programme to eliminate lymphatic filariasis.  progress report on mass drug administration in 2007 
 organization: [No author name available]
 notes: No abstract available
 url: 'Multicountry_GLOBAL'
 
 resources:
-- name: Programme mondial pur l'elimination de la filariose lymphatique  rapport sur l'adminstration de mass de medicaments en 2007 [Global programme to eliminate lymphatic filariasis.  progress report on mass drug administration in 2007]
+- name: Programme mondial pur l'elimination de la filariose lymphatique  rapport sur l'adminstration de mass de medicaments en 2007  Global programme to eliminate lymphatic filariasis.  progress report on mass drug administration in 2007 
 url: 'Multicountry_GLOBAL'
 format: Electronic
 access: Restricted

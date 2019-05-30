@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: Weekly epidemiological record [Relevé épidémiologique hebdomadaire]
+title: Weekly epidemiological record  Relevé épidémiologique hebdomadaire 
 organization: World Health Organization
 notes: This issue includes a report on mass drug administration for filariasis elimination in Zanzibar
 url: 'MULTICOUNTRY_GlobalPacELF_1346.pdf'
 
 resources:
-- name: Weekly epidemiological record [Relevé épidémiologique hebdomadaire]
+- name: Weekly epidemiological record  Relevé épidémiologique hebdomadaire 
 url: 'MULTICOUNTRY_GlobalPacELF_1346.pdf'
 format: Electronic
 access: Freely available from publisher website

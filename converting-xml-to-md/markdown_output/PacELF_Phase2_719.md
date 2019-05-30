@@ -1,12 +1,12 @@
 ---
 schema: pacelf
-title: Control of malaria in "tropical-paradise" hideaways
+title: Control of malaria in tropical-paradise hideaways
 organization: Cooke, R.A., Jeays K., Spencer, R.
 notes: Letter to the editor
 url: 'N/A'
 
 resources:
-- name: Control of malaria in "tropical-paradise" hideaways
+- name: Control of malaria in tropical-paradise hideaways
 url: 'N/A'
 format: Hardcopy
 access: Restricted
