@@ -1,0 +1,24 @@
+---
+schema: pacelf
+title: Samoa LF Elimination Program  Evaluation of Assessment Activities after 5 rounds for PacELF coordinated MDAs 9/04
+organization: Ottesen, E.A.
+notes: N/A
+url: 'PacELF_PDFs_Documents_from_FijiSamoa_LF_Elimination_Program_Evaluation_of_Assessment_Activities_after_5_Rounds_of_PacELF_Coordinated_MDAs.pdf'
+
+resources:
+- name: Samoa LF Elimination Program  Evaluation of Assessment Activities after 5 rounds for PacELF coordinated MDAs 9/04
+url: 'PacELF_PDFs_Documents_from_FijiSamoa_LF_Elimination_Program_Evaluation_of_Assessment_Activities_after_5_Rounds_of_PacELF_Coordinated_MDAs.pdf'
+format: Electronic/Hardcopy
+access: Restricted
+pages: 8
+ 
+category: Reports and Results
+journal: N/A
+publisher: N/A
+language: English 
+hardcopy_location: JCU WHOCC; JCU WHOCC Ichimori collection
+work_location: Samoa
+year: 2004
+decade: 2000
+PacELF_ID: 1055
+---
