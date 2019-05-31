@@ -12,10 +12,32 @@ dataset_fields:
     label: Description
     form_template: form/textarea.html
     datajson: description
+  - field_name: license
+    label: License
+    form_template: form/license.html
+    datajson: resource.access
   - field_name: category
-    label: Description
+    label: Category
     form_template: form/category.html
     datajson: type
+  - field_name: format
+    label: Format
+    datajson: format
+  - field_name: journal
+    label: Journal
+    datajson: journal
+  - field_name: publisher
+    label: Publisher
+    datajson: publisher
+  - field_name: language
+    label: Language
+    datajson: language
+  - field_name: year
+    label: Year Published
+    datajson: Year
+  - field_name: decade
+    label: Decade of the Work
+    datajson: decade
 
 resource_fields:
   - field_name: name
@@ -24,9 +46,16 @@ resource_fields:
   - field_name: url
     label: URL
     datajson: resource.url
+  - field_name: organization
+    label: Authors
+    datajson: authors
+  - field_name: license
+    label: License
+    form_template: form/license.html
+    datajson: resource.access
   - field_name: format
     label: Format
-    datajson: resource.type
+    datajson: resource.format
     form_template: form/dropdown.html
     values:
       - api
