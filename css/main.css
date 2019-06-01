@@ -1,6 +1,11 @@
+.jumbotron p {
+  font-size: 16px;
+}
+
 .organization-thumbnail img {
   width: 64px;
 }
+
 
 dataset {
   display: block;

@@ -23,6 +23,9 @@ dataset_fields:
   - field_name: format
     label: Format
     datajson: format
+  - field_name: authors
+    label: Authors
+    datajson: authors
   - field_name: journal
     label: Journal
     datajson: journal
@@ -42,20 +45,17 @@ dataset_fields:
 resource_fields:
   - field_name: name
     label: Resource Name
-    datajson: resource.title
+    datajson: distribution.title
   - field_name: url
     label: URL
-    datajson: resource.url
-  - field_name: organization
-    label: Authors
-    datajson: authors
+    datajson: distribution.downloadURL
   - field_name: license
     label: License
     form_template: form/license.html
-    datajson: resource.access
+    datajson: distribution.access
   - field_name: format
     label: Format
-    datajson: resource.format
+    datajson: distribution.format
     form_template: form/dropdown.html
     values:
       - api
@@ -69,6 +69,8 @@ resource_fields:
       - xml
       - pdf
       - txt
+      - Electronic
+      - Hardcopy
 
 organization_fields:
   - field_name: title
