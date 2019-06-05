@@ -24,7 +24,7 @@ navigation:
   - title: Organizations
     url: /organizations/
   - title: About
-    url: /about/
+    url: /about.html
 
 # Collections
 collections:
