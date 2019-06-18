@@ -1,5 +1,5 @@
 ---
 title: PacELF
 description: PacELF was formed in 1999 to coordinate the elimination efforts in Pacific Island Countries and Territories. It works within the framework of the WHO Global Programme to Eliminate Lymphatic Filariasis. PacELF, the first regional filariasis elimination programme, is a network of the twenty-two Pacific island countries and territories aimed at eliminating filariasis in the Pacific.
-logo: ../img/pacelf_logo.png
+logo: /img/pacelf_logo.png
 ---
