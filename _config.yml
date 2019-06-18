@@ -3,7 +3,7 @@ greeting: PacELF - Pacific Programme for the Elimination of Lymphatic Filariasis
 description: PacELF was formed in 1999 to coordinate the elimination efforts in Pacific Island Countries and Territories. It works within the framework of the WHO Global Programme to Eliminate Lymphatic Filariasis. PacELF, the first regional filariasis elimination programme, is a network of the twenty-two Pacific island countries and territories aimed at eliminating filariasis in the Pacific. The strategy for achieving this goal is annual mass drug administration (MDA) using diethylcarbamazine citrate (DEC) with albendazole to stop transmission, together with clinical management of infections to minimize progression of morbidity and disability in those individuals that are already infected.
   Some Pacific countries and territories have achieved filariasis elimination, and others are moving closer to that goal. To assist with documentation and validation of elimination, and to provide a historical record, this project has collected all available published and unpublished documents about the program since it started. This searchable archive consists of peer-reviewed papers, WHO documents, and programme reports. Some are freely available while for some access must be requested. A collection of hard copy documents is housed at James Cook University's Townsville Campus and may be accessed by request to PacELF@jcu.edu.au
   The development of this digital library is ongoing. Additional documents (e.g. hard copy) are still to be catalogued and added to the system.
-baseurl: "/jkan" # When deploying to username github.io/jkan/
+baseurl: "" # When deploying to username github.io/jkan/ will need a /jkan/
 logo: /img/pacelf_logo.png
 
 # Site theme
