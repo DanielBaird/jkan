@@ -7,7 +7,7 @@ baseurl: "" # When deploying to username github.io/jkan/ will need a /jkan/
 logo: /img/pacelf_logo.png
 
 # Site theme
-jkan_theme: Paper
+jkan_theme: United # this doesn't seem to activate the United Bootswatch theme so it's manually included as a style sheet in the head.html
 
 
 # Authentication
